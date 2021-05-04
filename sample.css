@@ -1,8 +1,4 @@
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+/*解答参照で修正*/
 
 section{
   width: 300px;
@@ -10,6 +6,6 @@ section{
   border:2px solid #fa5893;
 }
 
-.span{
-  background-color: #fa5893;
+span{
+  color: #fa5893;
 }
